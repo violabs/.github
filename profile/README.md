@@ -41,12 +41,19 @@ We build on solid foundations:
 
 ## 🚀 Featured Projects
 
-### Constellation (Current)
-An integrated test platform enabling JVM enterprise developers to:
-- Spin up multiple applications simultaneously
-- Test complex integration scenarios
-- Validate full system flows
-- Streamline enterprise testing processes
+### [Picard](https://github.com/violabs/picard) - Current WIP
+Using Konstellation DSL - A Kubernetes/Helm DSL Library 
+- Compiled time generation
+- Uses Kotlin Poet and KSP
+- Easy to setup
+- Documented accessors 
+
+### [Konstellation](https://github.com/violabs/konstellation)
+A DSL Generator library
+- Compiled time generation
+- Uses Kotlin Poet and KSP
+- Easy to setup
+- Documented accessors
 
 ### [Geordi](https://github.com/violabs/geordi)
 A Kotlin test framework simulating BDD capabilities similar to Spock:
